@@ -1,0 +1,13 @@
+# Private: Google credentials and the saved sign-in
+credentials.json
+token.json
+
+# Personal settings (calendar ID, folder path). See config.example.json
+config.json
+
+# Python libraries (rebuild with: .venv/bin/pip install -r requirements.txt)
+.venv/
+__pycache__/
+
+# macOS folder metadata
+.DS_Store
